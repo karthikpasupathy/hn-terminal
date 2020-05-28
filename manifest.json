@@ -1,0 +1,27 @@
+{
+  "name": "HN Terminal",
+  "version": "1.0",
+  "description": "Terminal Theme for HackerNews",
+  "permissions": [
+      "https://news.ycombinator.com/*"
+  ],
+  "page_action": {
+      "default_icon": {
+          "32": "images/32.png",
+          "64": "images/64.png",
+          "128": "images/128.png"
+      }
+  },
+  "icons": {
+      "32": "images/32.png",
+      "64": "images/64.png",
+      "128": "images/128.png"
+  },
+  "content_scripts": [
+      {
+        "matches": ["https://news.ycombinator.com/*"], 
+        "css" : ["override.css"]
+      }
+  ],    
+  "manifest_version": 2
+}

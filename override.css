@@ -1,0 +1,60 @@
+body {
+    background-color: #262626;
+  }
+  
+  table {
+    background-color: #262626;
+  }
+  
+  tr.athing > td > a {
+    color: #45ff34;
+    font-family: monospace;
+    font-size: 1.2em;
+  }
+  tr.athing > td > a:visited {
+    color: #ffffff;
+    font-family: monospace;
+    font-size: 1.2em;
+  }
+  
+  td.subtext{
+    color: white;
+    font-family: monospace;
+    font-size: 0.9em;
+  }
+
+
+  /* Top Bar */
+  span.pagetop b.hnname a {
+    color: #45ff34;
+    font-family: monospace;
+    font-size: 1.4em;
+  }
+  span.pagetop a:visited {
+    color: #45ff34;
+    font-family: monospace;
+    font-size: 1.0em;
+  }
+  span.pagetop > a {
+    color: #45ff34;
+    font-family: monospace;
+    font-size: 1.0em;
+  }
+  a:link {
+    color: #ffffff;
+  }
+
+  .hnmore {
+      color:#45ff34;
+  }
+  
+ /* footer */
+ a.morelink {
+    color: #45ff34;
+}
+ span.yclinks > a {
+    color: #45ff34;
+  }
+  span.yclinks > a:visited {
+    color: #45ff34;
+  }
