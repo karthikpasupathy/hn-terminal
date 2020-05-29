@@ -7,3 +7,6 @@ Here's how it looks:
 
 ![Theme screenshot](https://github.com/karthikpasupathy/hn-terminal/blob/master/hn-terminal-theme.png)
 
+You can download the packed .crx file from [here](https://github.com/karthikpasupathy/hn-terminal/blob/master/hn-terminal.crx)
+
+Feel free to fork this and make it better!
